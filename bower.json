@@ -1,0 +1,21 @@
+{
+    "name": "file-saver-dt",
+    "main": "FileSaver.js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/ksch10bob/FileSaver.js",
+    "authors": [
+      ""
+    ],
+    "description": "An HTML5 saveAs() FileSaver implementation",
+    "keywords": [
+      "filesaver",
+      "saveas",
+      "blob"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "*",
+        "!FileSaver.js",
+        "!LICENSE.md"
+    ]
+  }
